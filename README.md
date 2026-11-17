@@ -17,3 +17,7 @@ Mi camino profesional nació en el mundo creativo y de la gestión empresarial, 
 * **Bootcamp en Data Analytics** — *[Fundacion Somos f5]* *(En curso)*
 * **Diplomado en Creación y Diseño de Carteras** — *Espacio Buenos Aires (EBA), Argentina*
 * **Diseño y Patronaje de Moda** — *LCI Bogotá, Colombia*
+
+  ### 📬 ¿Conectamos?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
