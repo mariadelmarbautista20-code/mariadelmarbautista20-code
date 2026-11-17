@@ -1,7 +1,7 @@
 # ¡Hola, soy María del Mar! ✨
 ## Bienvenido a mi espacio en GitHub.
 
-### 📊 Data Analyst | Emprendedora & Directora Creativa
+###  Data Analyst | Emprendedora & Directora Creativa
 Combino mi trayectoria creando y gestionando negocios desde cero con el **análisis de datos** para transformar información compleja en decisiones estratégicas y de negocio.
 
 ---
